@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TIF '18/PKL/App/app/src/main/res/layout/activity_graph.xml" value="0.2125" />
+        <entry key="..\:/TIF '18/PKL/App/app/src/main/res/layout/activity_login.xml" value="0.2125" />
+        <entry key="..\:/TIF '18/PKL/App/app/src/main/res/layout/activity_measurement.xml" value="0.2125" />
+        <entry key="..\:/TIF '18/PKL/App/app/src/main/res/layout/fragment_head_graph.xml" value="0.1984375" />
+        <entry key="..\:/TIF '18/PKL/App/app/src/main/res/layout/fragment_height_graph.xml" value="0.2125" />
+        <entry key="..\:/TIF '18/PKL/App/app/src/main/res/layout/fragment_weight_graph.xml" value="0.2125" />
+        <entry key="..\:/Users/Fachri Pratama/.gradle/caches/transforms-3/9917c1060ba2f79f3519a1b2bf642c2c/transformed/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_dark.xml" value="0.3828125" />
+        <entry key="..\:/Users/Fachri Pratama/.gradle/caches/transforms-3/9917c1060ba2f79f3519a1b2bf642c2c/transformed/play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_dark_normal.xml" value="0.3828125" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/drawable/back.xml" value="0.3828125" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/drawable/calendar.xml" value="0.3828125" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/drawable/camera.xml" value="0.3828125" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/drawable/discussion.xml" value="0.3828125" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/drawable/growth.xml" value="0.3828125" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/drawable/ic_right.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/drawable/right.xml" value="0.3828125" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_add_child_data.xml" value="0.33" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_add_head.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_add_height.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_add_weight.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_behavior_discussion.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_comment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_comment2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_education_discussion.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_graph.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_head_add.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_infants_discussion.xml" value="0.33" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_measurement.xml" value="0.25" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_menu_discuss.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_parenting_discussion.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_pregnancy_discussion.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_preschool_discussion.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_select_child.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_toddlers_discussion.xml" value="0.13988657844990549" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_toughtopics_discussion.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/activity_weight_add.xml" value="0.1078125" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/card_add_head.xml" value="0.303125" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/card_add_height.xml" value="0.3171875" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/card_add_weight.xml" value="0.33" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/card_child.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/card_comment.xml" value="0.4919653893695921" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/card_head.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/card_height.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/card_question.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/card_weight.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/carddiscussion.xml" value="0.33" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/fragment_discussion.xml" value="0.2551813471502591" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/fragment_growth.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/fragment_head.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/fragment_height.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/fragment_home.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/fragment_weight.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fachri Pratama/AndroidStudioProjects/Boonda/app/src/main/res/layout/quetion_comment.xml" value="0.36666666666666664" />
+        <entry key="..\:/projectan/Boonda-master/Boonda-master/app/src/main/res/layout/activity_add_child_data.xml" value="0.27447916666666666" />
+        <entry key="..\:/projectan/Boonda-master/Boonda-master/app/src/main/res/layout/activity_infants_discussion.xml" value="0.27447916666666666" />
+        <entry key="..\:/projectan/Boonda-master/Boonda-master/app/src/main/res/layout/activity_main.xml" value="0.14375" />
+        <entry key="..\:/projectan/Boonda-master/Boonda-master/app/src/main/res/layout/card_comment.xml" value="0.264" />
+        <entry key="..\:/projectan/Boonda-master/Boonda-master/app/src/main/res/layout/carddiscussion.xml" value="0.27447916666666666" />
+        <entry key="..\:/projectan/Boonda-master/Boonda-master/app/src/main/res/layout/cardhome.xml" value="0.13489583333333333" />
+        <entry key="..\:/projectan/Boonda-master/Boonda-master/app/src/main/res/layout/fragment_discussion.xml" value="0.14375" />
+        <entry key="..\:/projectan/Boonda-master/Boonda-master/app/src/main/res/layout/item_comment.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

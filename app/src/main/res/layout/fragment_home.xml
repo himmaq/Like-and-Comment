@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".HomeFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="user saat ini:"/>
+    <TextView
+        android:id="@+id/curr_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="User"/>
+    <EditText
+        android:id="@+id/coba_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="child name"
+        android:inputType="text"/>
+    <EditText
+        android:id="@+id/coba_weight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="weight"
+        android:inputType="text"/>
+    <EditText
+        android:id="@+id/coba_height"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="height"
+        android:inputType="text"/>
+    <EditText
+        android:id="@+id/coba_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="head"
+        android:inputType="text"/>
+    <Button
+        android:id="@+id/coba_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit"/>
+
+
+
+</LinearLayout>

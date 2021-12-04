@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.boonda">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Boonda">
+        <activity
+            android:name=".CommentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".HeadAddActivity"
+            android:exported="true" />
+        <activity
+            android:name=".HeightAddActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WeightAddActivity"
+            android:exported="true" /> <!-- <activity android:name=".MenuDiscussActivity"/> -->
+        <activity
+            android:name=".PreschoolActivity"
+            android:parentActivityName=".InfantsActivity" />
+        <activity android:name=".ToddlersActivity" />
+        <activity android:name=".BehaviorActivity" />
+        <activity android:name=".InfantsActivity" />
+        <activity android:name=".PregnancyActivity" />
+        <activity android:name=".ParentingActivity" />
+        <activity android:name=".EducationActivity" />
+        <activity android:name=".ToughTopicsActivity" />
+        <activity android:name=".AddChildDataActivity" />
+        <activity android:name=".GraphActivity" />
+        <activity android:name=".SelectChildActivity" />
+        <activity android:name=".MeasurementActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
